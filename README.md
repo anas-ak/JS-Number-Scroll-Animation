@@ -1,5 +1,7 @@
 # Number-Scroll-Animation
 
+<img src="fwiw.gif">
+
 5 Functions: 
 <ul>
   <li>createNumberArray(number) - Function to create an array. The digits are always rounded to 6</li>
